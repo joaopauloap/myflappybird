@@ -1,0 +1,32 @@
+.parbarreiras{
+	
+}
+
+#dispGameOver{
+
+	z-index: 2;
+	position: absolute;
+	width: 100%;
+	top: 30%;
+	text-align: center;
+	display: none;
+	color:white;
+	font-family: tahoma;
+	font-size: 30;
+}
+
+body{
+	background-color: black;	
+	overflow: hidden;
+}
+
+img{
+	
+}
+
+h2{
+	color:white;
+	text-align: center;
+	font-family: tahoma	;
+}
+
